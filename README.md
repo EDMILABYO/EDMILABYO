@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on web development, cloud, and open-source projects  
 - 🤔 I’m looking for help with improving system architecture and production-level deployments  
 - 💬 Ask me about React, Node.js, Cloud platforms (AWS/Azure/GCP), and databases  
-- 📫 How to reach me: LinkedIn | Email (add your email here)  
+- 📫 How to reach me: LinkedIn | Email (edouardmilabyo@outlook.fr)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love turning ideas into real-world digital solutions 🚀  
 
